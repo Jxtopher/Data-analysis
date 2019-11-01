@@ -5,7 +5,7 @@ Feux signalés pour chaque mois sur dix années entre 1998 et 2017 et par régio
 
 ## Moyenne des feux signalés pour chaque mois de l'année
 
-Nous constatons une moyenne de feux signalés plus élevés les mois de juillet à décembre. 
+Nous constatons une moyenne de feux signalés plus élevés les mois de juillet à décembre. Environs 40% plus élevés par rapport à la période Janvier-Juin.
 
 <p align="center">
   <img width="100%" height="100%" src="./months_of_the_year.svg">
