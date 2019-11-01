@@ -3,7 +3,7 @@
 Sources des données : https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
 Feux signalés pour chaque mois sur dix années entre 1998 et 2017 et par régions au Brésil.
 
-## Moyenne des feux signalés de chaque mois de l'année
+## Moyenne des feux signalés pour chaque mois de l'année
 
 Nous constatons une moyenne de feux signalés plus élevés les mois de juillet à décembre. 
 
