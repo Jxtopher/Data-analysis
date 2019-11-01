@@ -7,7 +7,7 @@ Feux signalés pour chaque mois sur dix années entre 1998 et 2017 et par régio
 
 <p align="center">
   <img width="100%" height="100%" src="./years.svg">
-  Fig. 1 years.svg
+  Fig. 1 Nombre de feu signalé pour l'année entre 1998 et 2017
 </p>
 
 
