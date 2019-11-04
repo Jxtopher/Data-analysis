@@ -20,3 +20,13 @@ Nous constatons une moyenne de feux signalés plus élevés les mois de juillet 
   <img width="100%" height="100%" src="./months_of_the_year.svg">
   Fig. 2 Pour chaque mois de l'année le nombre de feux signalés. Boxplot et moyenne avec l'intervalle de confiance à 95%.
 </p>
+
+## Corrélation avec les conditions météorologiques
+
+| <p align="center">
+  <img width="100%" height="100%" src="./months_of_the_year.svg">
+  Fig. 2 Pour chaque mois de l'année le nombre de feux signalés. Boxplot et moyenne avec l'intervalle de confiance à 95%.
+</p> | <p align="center">
+  <img width="100%" height="100%" src="./months_of_the_year.svg">
+  Fig. 2 Pour chaque mois de l'année le nombre de feux signalés. Boxplot et moyenne avec l'intervalle de confiance à 95%.
+</p>|
