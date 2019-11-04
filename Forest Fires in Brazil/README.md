@@ -23,17 +23,18 @@ Nous constatons une moyenne de feux signalés plus élevés les mois de juillet 
 
 ## Corrélation avec les conditions météorologiques
 
+Les données utilisées pour les conditions météorologiques correspondent à un climat équatorial (pluviométrie et la température maximum). (source:https://fr.wikipedia.org/wiki/Climat_du_Br%C3%A9sil#Le_climat_%C3%A9quatorial)
 
 <table>
   <tr>
     <td><p align="center">
     <img width="100%" height="100%" src="./months_rainfall.svg">
-    Fig. 2 Pour chaque mois de l'année le nombre de feux signalés et la pluviométrie (mm).
+    Fig. 3 Pour chaque mois de l'année le nombre de feux signalés et la pluviométrie (mm).
     </p>
     </td>
     <td><p align="center">
     <img width="100%" height="100%" src="./months_temperature.svg">
-    Fig. 2 Pour chaque mois de l'année le nombre de feux signalés et la température maximum observé.
+    Fig. 4 Pour chaque mois de l'année le nombre de feux signalés et la température maximum observé.
     </p>
     </td>
   </tr>
