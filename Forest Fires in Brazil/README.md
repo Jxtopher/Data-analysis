@@ -25,7 +25,7 @@ Nous constatons une moyenne de feux signalés plus élevés les mois de juillet 
 
 ## Corrélation avec les conditions météorologiques
 
-Les données utilisées pour les conditions météorologiques correspondent à un climat équatorial (pluviométrie et la température maximum). (source:https://fr.wikipedia.org/wiki/Climat_du_Br%C3%A9sil#Le_climat_%C3%A9quatorial)
+Les données utilisées pour les conditions météorologiques correspondent à un climat équatorial : pluviométrie et la température maximum. (source:https://fr.wikipedia.org/wiki/Climat_du_Br%C3%A9sil#Le_climat_%C3%A9quatorial)
 
 <table>
   <tr>
