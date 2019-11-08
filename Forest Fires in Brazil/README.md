@@ -3,9 +3,11 @@
 Sources des données : https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
 Feux signalés pour chaque mois sur dix années entre 1998 et 2017 et par régions au Brésil.
 
+En 2011 (cf. The World Factbook de 2011), la superficie forestière pour Brésil est de 4 776 980 km² de forêts.
+
 ## Nombre de feu signalé pour l'année entre 1998 et 2017
 
-Le nombre de feux signalés pour la période 1998 à 2017 a été multiplié par 1.5. Il y a donc une tendance à la hausse du nombre de feux signalés pour cette période.
+Le nombre de feux signalés pour la période 1998 à 2017 a été multiplié par 1.5. Il y a donc une tendance à la hausse du nombre de feux signalés pour cette période. 
 
 <p align="center">
   <img width="100%" height="100%" src="./years.svg">
