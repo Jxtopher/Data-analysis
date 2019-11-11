@@ -46,5 +46,5 @@ Les données utilisées pour les conditions météorologiques correspondent à u
 
 ## Modélisation
 
-![equation](https://latex.codecogs.com/gif.latex?\frac{\text{a d}}{b})
+![equation]("https://latex.codecogs.com/gif.latex?\frac{\text{a d}}{b}")
 
