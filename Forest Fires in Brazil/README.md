@@ -43,3 +43,7 @@ Les données utilisées pour les conditions météorologiques correspondent à u
     </td>
   </tr>
 </table>
+
+## Modélisation
+
+$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
