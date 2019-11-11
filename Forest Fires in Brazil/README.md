@@ -47,10 +47,11 @@ Les données utilisées pour les conditions météorologiques correspondent à u
 ## Modélisation
 
 ```latex
-c_{t+1} = c_t - \text{surfaceDetruite}_t + (c_0 - c_t) \times taux
+c_{t+1} = c_t - \text{surfaceDetruite}_t + (c_0 - c_t) \times \text{taux de régénération}
 \text{surfaceDetruite} = \text{surface bruler} + \text{surface deforestation}
 \text{surface bruler} = \text{nb feu signalé} * \text{surface bruler moyenne}
 \text{nb feu signalé} = f(c_t) \times g(temperature) \times h(humain factor) + a
+avec c la surface forestière
 ```
  
 
