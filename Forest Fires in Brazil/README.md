@@ -46,4 +46,4 @@ Les données utilisées pour les conditions météorologiques correspondent à u
 
 ## Modélisation
 
-![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
+![equation](http://latex.codecogs.com/gif.download?%5Cfrac%7Ba%7D%7Bb%7D)
