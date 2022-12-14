@@ -62,6 +62,7 @@ if __name__ == "__main__":
     )
     plt.plot(x_year[1:], evolution_rate(y_gdb), label="GDB", marker="x")
     plt.grid(True, linestyle="--", linewidth=0.1, alpha=0.7)
+    plt.legend(loc="best", prop={"size": "large"})
     plt.ylabel("Evolution rate", fontsize="large")
     plt.xlabel("Year", fontsize="large")
     plt.text(1973, 16, "Choc pétrolier 1973", rotation=90, fontsize=5)
