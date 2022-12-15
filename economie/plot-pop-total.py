@@ -10,7 +10,7 @@ def load_file(file_path: str) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    df = load_file("data/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_4756270.csv")
+    df = load_file("data/population total/API_SP.POP.TOTL_DS2_en_csv_v2_4757500.csv")
     df_world = df[df["Country Name"] == "World"]
 
     x_year = []
@@ -26,6 +26,6 @@ if __name__ == "__main__":
     ax.margins(0.05)
     plt.plot(x_year, y_gdb, marker="x")
     plt.grid(True, linestyle="--", linewidth=0.1, alpha=0.7)
-    plt.ylabel("GDP (current US$)", fontsize="large")
+    plt.ylabel("Population", fontsize="large")
     plt.xlabel("Years", fontsize="large")
-    plt.savefig("plots/world-gdb.pdf", bbox_inches="tight")
+    plt.savefig("plots/world-pop.pdf", bbox_inches="tight")

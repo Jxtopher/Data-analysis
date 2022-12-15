@@ -10,7 +10,7 @@ def load_file(file_path: str) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    df = load_file("data/oil-production-by-country.csv")
+    df = load_file("data/oil production/oil-production-by-country.csv")
     df_world = df[df["Entity"] == "World"]
     print(df_world)
 

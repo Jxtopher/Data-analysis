@@ -6,7 +6,9 @@ import matplotlib.pyplot as plt
 
 
 def load_file_GDB():
-    df = pd.read_csv("data/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_4756270.csv", skiprows=4)
+    df = pd.read_csv(
+        "data/GDP/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_4756270.csv", skiprows=4
+    )
     df_world = df[df["Country Name"] == "World"]
 
     x_year = []
@@ -21,7 +23,7 @@ def load_file_GDB():
 
 
 def load_file_oil_production():
-    df = pd.read_csv("data/oil-production-by-country.csv")
+    df = pd.read_csv("data/oil production/oil-production-by-country.csv")
     df_world = df[df["Entity"] == "World"]
     print(df_world)
 
