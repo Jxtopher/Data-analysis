@@ -229,10 +229,8 @@ if __name__ == "__main__":
     plt.plot(
         oil_production_tonnes_year,
         diff,
-        label="Consumption",
         marker="x",
     )
-    plt.legend(loc="best", prop={"size": "large"})
     plt.grid(True, linestyle="--", linewidth=0.1, alpha=0.7)
     # plt.ylabel("Oil production world (Tonne)", fontsize="large")
     plt.ylabel(
